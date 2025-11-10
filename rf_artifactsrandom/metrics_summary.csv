@@ -1,2 +1,0 @@
-model,threshold,uncertain_rate,test_accuracy,test_balanced_accuracy,test_precision_macro,test_recall_macro,test_f1_macro
-random_forest,0.6,0.14545454545454545,1.0,1.0,1.0,1.0,1.0
