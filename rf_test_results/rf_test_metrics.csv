@@ -1,2 +1,0 @@
-threshold,uncertain_rate,test_accuracy,test_balanced_accuracy,test_precision_macro,test_recall_macro,test_f1_macro,n_samples,n_uncertain,n_valid
-0.6,0.02952029520295203,1.0,1.0,1.0,1.0,1.0,271,8,263
